@@ -30,7 +30,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="Bangla" tvg-server="Server 1",015. Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla" tvg-server="Server 1",016. MyTV
-http://Rochdi@starshare.net/live/Suryaaa/SURYAAAA/398.ts
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/nagorik-bd.png" group-title="Bangla" tvg-server="Server 1",017. Nagorik TV
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
 #EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangla" tvg-server="Server 1",018. News 24 BD
@@ -86,7 +86,7 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla" tvg-server="Server 1",043. THIKANA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1",044. Star Jalsha HD
-http://103.229.254.25:7001/play/a0c0/index.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Indian" tvg-server="Server 1",045. Star Plus HD
 http://198.195.239.50:8095/StarPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZOUSFg1XCPiya4aE7OCds_9C9hvIl-NmwA&s" group-title="Indian" tvg-server="Server 1",046. STAR BANGLA
@@ -100,7 +100,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="http://greenpa1.com/starsports1.png" group-title="Sports" tvg-server="Server 1",050. Star Sports 1 HD
 http://103.229.254.25:7001/play/a0a0
 #EXTINF:-1 tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1",051. STAR SPORTS 2 HINDI HD
-http://103.157.248.140:8000/
+http://103.229.254.25:7001/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png" group-title="Sports" tvg-server="Server 1",052. Star Sports Khel
 http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1",053. Star Sports Select 1 HD
@@ -118,7 +118,7 @@ https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="Sports" tvg-server="Server 1",059. PTV Sports
 http://103.76.111.180:7780/play/a058
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportscricket_uk.png" group-title="Sports" tvg-server="Server 1",060. Sky Sports Cricket
-http://185.94.79.41/1766/index.m3u8
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/7343/index.m3u8
 #EXTINF:-1 tvg-logo="http://greenpa1.com/sonyten1.png" group-title="Sports" tvg-server="Server 1",061. SONY TEN 1 HD
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports" tvg-server="Server 1",062. SONY TEN 2 HD
@@ -154,7 +154,7 @@ http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="Indian" tvg-server="Server 1",077. SONY MAX HD
 http://198.195.239.50:8095/SonyMAX/index.m3u8
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsfootball_uk.png" group-title="Sports" tvg-server="Server 1",078. Sky Sports Football
-http://cdn.tv-rds.workers.dev/SkySportsPremierLeague.m3u8
+http://185.94.79.41/1715/index.m3u8 SkySportsPremierLeague.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports" tvg-server="Server 1",079. Real Madrid tv Football
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1",080. Nick
@@ -194,7 +194,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cG8Vd8MiTP-KEnpTdPmMfjUdAlQ1rimJvKSjpZs2v2aXjqU8TM_vmi1e9Mo3ZNKd9sm_hu4RJw=s900-c-k-c0x00ffffff-no-rj" group-title="Drama" tvg-server="Server 1",097. Green HD
 https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080" group-title="Sports" tvg-server="Server 1",098. HUB SPORTS 4
-http://Rochdi@starshare.net/live/Suryaaa/SURYAAAA/196347.ts
+http://premimum.online/live/jen12345/jen54321/196347.ts
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/hum-logo.png" group-title="Drama" tvg-server="Server 1",099. HUM HD
 http://103.76.111.180:7780/play/a06u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movie" tvg-server="Server 1",100. JALSHA MOVIES HD
