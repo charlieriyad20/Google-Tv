@@ -132,11 +132,11 @@ http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",066. STAR MOVIES HD
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://greenpa1.com/ssc.png" group-title="Sports" tvg-server="Server 1",067. Super Sport Cricket
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
+https://datahub11.com:443/live/Jen12345/Jen54321/158442.ts
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports" tvg-server="Server 1",068. Willow
-https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/5040.ts
 #EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/collection_697406b993cda.png" group-title="Sports" tvg-server="Server 1",069. Willow By Cricbuzz
-https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/703300.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1",070. ZEE Bangla HD
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png" group-title="Indian" tvg-server="Server 1",071. ZEE TV HD
@@ -154,7 +154,7 @@ http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="Indian" tvg-server="Server 1",077. SONY MAX HD
 http://198.195.239.50:8095/SonyMAX/index.m3u8
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsfootball_uk.png" group-title="Sports" tvg-server="Server 1",078. Sky Sports Football
-http://185.94.79.41/1715/index.m3u8 SkySportsPremierLeague.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/122411.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports" tvg-server="Server 1",079. Real Madrid tv Football
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1",080. Nick
@@ -182,9 +182,9 @@ https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="Bangla" tvg-server="Server 1",091. G-Serise
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="Sports" tvg-server="Server 1",092. Bein Sport 1
-http://Rochdi@starshare.net/live/Suryaaa/SURYAAAA/652310.ts
+https://datahub11.com:443/live/Jen12345/Jen54321/652310.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="Sports" tvg-server="Server 1",093. Bein Sports 2
-http://Rochdi@starshare.net/live/Suryaaa/SURYAAAA/652311.ts
+https://datahub11.com:443/live/Jen12345/Jen54321/652311.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports" tvg-server="Server 1",094. BeIN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",095. GOLDMINES
