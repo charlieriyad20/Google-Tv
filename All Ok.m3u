@@ -174,7 +174,7 @@ http://premimum.online:80/live/Jen12345/Jen54321/9378.ts
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary" tvg-server="Server 1",087. Discovery HD
 http://103.159.180.34:5001/live/3428.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids" tvg-server="Server 1",088. Disney Channel HD
-http://Rochdi@starshare.net/live/Suryaaa/SURYAAAA/19741.ts
+https://datahub11.com:443/live/Jen12345/Jen54321/19741.ts
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="Indian" tvg-server="Server 1",089. ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports" tvg-server="Server 1",090. FIFA+
@@ -182,9 +182,9 @@ https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="Bangla" tvg-server="Server 1",091. G-Serise
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="Sports" tvg-server="Server 1",092. Bein Sport 1
-https://datahub11.com:443/live/Jen12345/Jen54321/652310.ts
+https://datahub11.com:443/live/Jen12345/Jen54321/274149.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="Sports" tvg-server="Server 1",093. Bein Sports 2
-https://datahub11.com:443/live/Jen12345/Jen54321/652311.ts
+https://datahub11.com:443/live/Jen12345/Jen54321/274150.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports" tvg-server="Server 1",094. BeIN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",095. GOLDMINES
