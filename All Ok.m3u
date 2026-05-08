@@ -32,7 +32,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla" tvg-server="Server 1",016. MyTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/nagorik-bd.png" group-title="Bangla" tvg-server="Server 1",017. Nagorik TV
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/3802.ts
+https://ultra02jibon02by1.jibon02premium.workers.dev/JIBON-BD-VS-PK/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangla" tvg-server="Server 1",018. News 24 BD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Bangla" tvg-server="Server 1",019. NTV
@@ -128,7 +128,7 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/stargold_uk.png" group-title="Indian" tvg-server="Server 1",064. STAR GOLD HD
 http://103.229.254.25:7001/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Indian" tvg-server="Server 1",065. Star Gold 2 HD
-http://Rochdi@starshare.net/live/Suryaaa/SURYAAAA/157081.ts
+http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",066. STAR MOVIES HD
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://greenpa1.com/ssc.png" group-title="Sports" tvg-server="Server 1",067. Super Sport Cricket
@@ -158,7 +158,7 @@ http://185.94.79.41/1715/index.m3u8 SkySportsPremierLeague.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports" tvg-server="Server 1",079. Real Madrid tv Football
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1",080. Nick
-https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=1341
+http://110.39.27.47:8001/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93L73rhLsZA068a3aV3C5wfeWs2WwlgPj9rPf3Bk2w-OazmA4VRS_al0&s=10" group-title="Movie" tvg-server="Server 1",081. BOLLYWOOD ACTION
 http://103.229.254.25:7001/play/a0es/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1",082. Cartoon Network
@@ -224,4 +224,4 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiirAcbz1-0_b0neRA0Jsm3RdR7s2NVjhRgQ&s" group-title="English" tvg-server="Server 1",112. BBC World
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports" tvg-server="Server 1",113. SONY TEN 3 HD
-http://stb-air.wasmer.app//play.php?id=464&uid=999&pass=999
+http://103.229.254.25:7001/play/a09q/index.m3u8
