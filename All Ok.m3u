@@ -86,7 +86,7 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla" tvg-server="Server 1",043. THIKANA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1",044. Star Jalsha HD
-http://103.229.254.25:7001/play/a075/index.m3u8
+http://premimum.online/live/jen12345/jen54321/198.ts
 #EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Indian" tvg-server="Server 1",045. Star Plus HD
 http://198.195.239.50:8095/StarPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZOUSFg1XCPiya4aE7OCds_9C9hvIl-NmwA&s" group-title="Indian" tvg-server="Server 1",046. STAR BANGLA
@@ -98,7 +98,7 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Bangla" tvg-server="Server 1",049. PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="http://greenpa1.com/starsports1.png" group-title="Sports" tvg-server="Server 1",050. Star Sports 1 HD
-http://103.229.254.25:7001/play/a0a0
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276730.ts
 #EXTINF:-1 tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1",051. STAR SPORTS 2 HINDI HD
 http://103.229.254.25:7001/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png" group-title="Sports" tvg-server="Server 1",052. Star Sports Khel
@@ -229,5 +229,11 @@ http://103.229.254.25:7001/play/a09q/index.m3u8
 https://tinyurl.com/3t2d9neu
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports" tvg-server="Server 1",115. Star Sports 2 HD
 http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276732.ts
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="Sports" tvg-server="Server 1",115. Cricbuzz
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="Sports" tvg-server="Server 1",116. Cricbuzz
 http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids" tvg-server="Server 1",117. Discovery Kids
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/277112.m3u8
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/45.png" group-title="Kids" tvg-server="Server 1",118. Sony YAY!
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=908587&extension=ts
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/239.png" group-title="Kids" tvg-server="Server 1",119. POGO
+http://103.159.180.34:5001/live/559.m3u8
