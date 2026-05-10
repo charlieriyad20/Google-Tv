@@ -135,8 +135,8 @@ http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 http://premimum.online:80/live/jen12345/jen54321/2496.ts
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports" tvg-server="Server 1",068. Willow
 http://inthezone.pro/live/Sofia/Sofia/f539421c-ea12-4e03-901a-f99c465e2f1d.ts
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/collection_697406b993cda.png" group-title="Sports" tvg-server="Server 1",069. Willow By Cricbuzz
-https://datahub11.com:443/live/Jen12345/Jen54321/703300.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png" group-title="Sports" tvg-server="Server 1",069. Willow By Cricbuzz
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276740&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1",070. ZEE Bangla HD
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png" group-title="Indian" tvg-server="Server 1",071. ZEE TV HD
@@ -227,3 +227,5 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 http://103.229.254.25:7001/play/a09q/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-server="Server 1",114. GAAN BANGLA MUSIC
 https://tinyurl.com/3t2d9neu
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports" tvg-server="Server 1",115. Star Sports 2 HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276732.ts
