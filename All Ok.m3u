@@ -224,7 +224,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiirAcbz1-0_b0neRA0Jsm3RdR7s2NVjhRgQ&s" group-title="English" tvg-server="Server 1",112. BBC World
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports" tvg-server="Server 1",113. SONY TEN 3 HD
-http://103.229.254.25:7001/play/a09q/index.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-server="Server 1",114. GAAN BANGLA MUSIC
 https://tinyurl.com/3t2d9neu
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports" tvg-server="Server 1",115. Star Sports 2 HD
