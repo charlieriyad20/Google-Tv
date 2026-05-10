@@ -126,11 +126,11 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports" tvg-server="Server 1",063. SONY TEN 5 HD
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/stargold_uk.png" group-title="Indian" tvg-server="Server 1",064. STAR GOLD HD
-http://103.229.254.25:7001/play/a0dd/index.m3u8
+http://198.195.239.50:8095/StarGold/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Indian" tvg-server="Server 1",065. Star Gold 2 HD
 http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",066. STAR MOVIES HD
-http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/StarMovies/index.m3u8
 #EXTINF:-1 tvg-logo="http://greenpa1.com/ssc.png" group-title="Sports" tvg-server="Server 1",067. Super Sport Cricket
 http://premimum.online:80/live/jen12345/jen54321/2496.ts
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports" tvg-server="Server 1",068. Willow
