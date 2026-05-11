@@ -188,9 +188,9 @@ http://premimum.online:80/live/jen12345/jen54321/652319.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports" tvg-server="Server 1",094. BeIN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",095. GOLDMINES
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+http://103.175.73.12:8080/live/53/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Movie" tvg-server="Server 1",096. Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
+http://103.175.73.12:8080/live/51/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cG8Vd8MiTP-KEnpTdPmMfjUdAlQ1rimJvKSjpZs2v2aXjqU8TM_vmi1e9Mo3ZNKd9sm_hu4RJw=s900-c-k-c0x00ffffff-no-rj" group-title="Drama" tvg-server="Server 1",097. Green HD
 https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080" group-title="Sports" tvg-server="Server 1",098. HUB SPORTS 4
