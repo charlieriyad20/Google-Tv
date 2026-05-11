@@ -166,9 +166,9 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1",083. Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1",084. COLORS BANGLA HD
-https://mflixott.com/tv/plusbox/live/ColorsBangla/index.m3u8
+http://premimum.online:80/live/jen12345/jen54321/98882.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian" tvg-server="Server 1",085. COLORS HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_COLORS_HD&uid=999&pass=999
+http://103.229.254.25:7001/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Indian" tvg-server="Server 1",086. COLORS CINEPLEX HD
 http://premimum.online:80/live/Jen12345/Jen54321/9378.ts
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary" tvg-server="Server 1",087. Discovery HD
