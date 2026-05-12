@@ -216,7 +216,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-server="Server 1",108. WAZ TV 🎯 📡
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/93457_Ary-digital.png" group-title="Drama" tvg-server="Server 1",109. ARY DIGITAL HD
-http://103.76.111.180:7780/play/a06m
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/665.ts
 #EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movie" tvg-server="Server 1",110. & Pictures
 http://103.159.180.34:5001/live/185.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yLG8mKp/1000112023.png" group-title="International" tvg-server="Server 1",111. AlJazeera
