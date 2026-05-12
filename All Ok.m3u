@@ -174,7 +174,7 @@ http://premimum.online:80/live/Jen12345/Jen54321/9378.ts
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary" tvg-server="Server 1",087. Discovery HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1967.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids" tvg-server="Server 1",088. Disney Channel HD
-http://premimum.online:80/live/jen12345/jen54321/19741.ts
+https://starshare.one:443/live/7654321/1234567/19741.ts
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="Indian" tvg-server="Server 1",089. ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports" tvg-server="Server 1",090. FIFA+
@@ -210,7 +210,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary" tvg-server="Server 1",105. NAT GEO HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/620.ts
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Indian" tvg-server="Server 1",106. Star Gold Select HD
-http://103.157.248.140:8000/play/a01c/index.m3u8
+https://starshare.one:443/live/7654321/1234567/9376.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t4fCjANSMhU6BEXJXCCU9okhkGUWm9B-Pg&s" group-title="Kids" tvg-server="Server 1",107. Tom & Jarry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-server="Server 1",108. WAZ TV 🎯 📡
@@ -241,5 +241,5 @@ http://103.159.180.34:5001/live/559.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png" group-title="Bangla" tvg-server="Server 1",121. GREEN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-server="Server 1",122. Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-logo="http://greenpa1.com/ssh1.png" group-title="Sports" tvg-server="Server 1",122. Star Sports 1 Hindi HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1371.ts
