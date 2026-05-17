@@ -198,7 +198,7 @@ http://premimum.online/live/jen12345/jen54321/196347.ts
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/hum-logo.png" group-title="Drama" tvg-server="Server 1",099. HUM HD
 http://103.76.111.180:7780/play/a06u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movie" tvg-server="Server 1",100. JALSHA MOVIES HD
-http://103.229.254.25:7001/play/a0dt/index.m3u8
+http://103.59.176.72:8083/live4/video.m3u8?token=123
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png" group-title="Sports" tvg-server="Server 1",101. A sports
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/804.ts
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1",102. ESPN Premium
