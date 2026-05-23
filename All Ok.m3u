@@ -118,17 +118,17 @@ https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="Sports" tvg-server="Server 1",059. PTV Sports
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportscricket_uk.png" group-title="Sports" tvg-server="Server 1",060. Sky Sports Cricket
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2480.ts
+https://yupptv.rkdyiptv.workers.dev/live/1981.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Sports" tvg-server="Server 1",061. SONY TEN 1 HD
-http://opplex.org:8080/DrSameerwt47/3351377/167570
+https://yupptv.rkdyiptv.workers.dev/live/1986.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports" tvg-server="Server 1",062. SONY TEN 2 HD
-http://opplex.org:8080/DrSameerwt47/3351377/167571
+https://yupptv.rkdyiptv.workers.dev/live/1988.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports" tvg-server="Server 1",063. SONY TEN 5 HD
-http://opplex.org:8080/DrSameerwt47/3351377/167595
+https://yupptv.rkdyiptv.workers.dev/live/1990.m3u8
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/stargold_uk.png" group-title="Indian" tvg-server="Server 1",064. STAR GOLD HD
 http://198.195.239.50:8095/StarGold/index.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="Indian" tvg-server="Server 1",065. Star Gold 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/492.ts
+#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Indian" tvg-server="Server 1",065. Star Gold 2 HD
+http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD&uid=999&pass=999
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",066. STAR MOVIES HD
 http://198.195.239.50:8095/StarMovies/index.m3u8
 #EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/SuperSportCricket.png" group-title="Sports" tvg-server="Server 1",067. Super Sport Cricket
@@ -136,13 +136,13 @@ http://opplex.org:8080/DrSameerwt47/3351377/167592
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports" tvg-server="Server 1",068. Willow
 http://inthezone.pro/live/Sofia/Sofia/f539421c-ea12-4e03-901a-f99c465e2f1d.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png" group-title="Sports" tvg-server="Server 1",069. Willow By Cricbuzz
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1139.ts
+https://yupptv.rkdyiptv.workers.dev/live/2751.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1",070. ZEE Bangla HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png" group-title="Indian" tvg-server="Server 1",071. ZEE TV HD
 http://198.195.239.50:8095/ZeeTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movie" tvg-server="Server 1",072. ZEE CINEMA HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1000.ts
+http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD&uid=999&pass=999
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png" group-title="Indian" tvg-server="Server 1",073. YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="Indian" tvg-server="Server 1",074. SUN BANGLA HD
@@ -174,7 +174,7 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/632.ts
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary" tvg-server="Server 1",087. Discovery HD
 http://103.159.180.34:5001/live/3428.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids" tvg-server="Server 1",088. Disney Channel HD
-http://103.122.249.134:8000/play/a05f
+http://airtel-07.wasmer.app//play.php?id=114&uid=999&pass=999
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="Indian" tvg-server="Server 1",089. ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports" tvg-server="Server 1",090. FIFA+
@@ -224,7 +224,7 @@ http://103.175.73.12:8080/live/318/318_0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiirAcbz1-0_b0neRA0Jsm3RdR7s2NVjhRgQ&s" group-title="English" tvg-server="Server 1",112. BBC World
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports" tvg-server="Server 1",113. SONY TEN 3 HD
-http://opplex.org:8080/DrSameerwt47/3351377/109985
+https://yupptv.rkdyiptv.workers.dev/live/1989.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="Kids" tvg-server="Server 1",114. Animax
 http://opplex.org:8080/DrSameerwt47/3351377/352080
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports" tvg-server="Server 1",115. Star Sports 2 HD
@@ -246,4 +246,4 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1065.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" group-title="Kids" tvg-server="Server 1",123. Gopal Var
 https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="Kids" tvg-server="Server 1",124. Cartoon Network HD+
-http://opplex.org:8080/DrSameerwt47/3351377/153154
+http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS&uid=999&pass=999
