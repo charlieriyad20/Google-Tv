@@ -74,7 +74,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Bangla" tvg-server="Server 1",037. Bangla TV
 http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/asian-tv-bd.png" group-title="Bangla" tvg-server="Server 1",038. Asian TV
-http://opplex.org:8080/DrSameerwt47/3351377/245908
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/430.ts
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="Bangla" tvg-server="Server 1",039. Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="Bangla" tvg-server="Server 1",040. Gazi TV
@@ -228,9 +228,9 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/146.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="Kids" tvg-server="Server 1",114. Animax
 http://opplex.org:8080/DrSameerwt47/3351377/352080
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports" tvg-server="Server 1",115. Star Sports 2 HD
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/703297.ts
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/9398.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="Sports" tvg-server="Server 1",116. Cricbuzz
-http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/2494.ts
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids" tvg-server="Server 1",117. Discovery Kids
 http://main.light-ott.net:80/3K7U42/XMSJKL/372928
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/45.png" group-title="Kids" tvg-server="Server 1",118. Sony YAY!
@@ -242,7 +242,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png" group-title="Bangla" tvg-server="Server 1",121. GREEN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://greenpa1.com/ssh1.png" group-title="Sports" tvg-server="Server 1",122. Star Sports 1 Hindi HD
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/703298.ts
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/9399.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" group-title="Kids" tvg-server="Server 1",123. Gopal Var
 https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="Kids" tvg-server="Server 1",124. Cartoon Network HD+
